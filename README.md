@@ -3,6 +3,11 @@ pam_miniotp
 
 [mini]-OTP module for PAM writen in Python (to use with pam_python.so).
 
+WARNING
+=======
+
+This code is not meant to be secure. It's for educational purpose only. Use it at your own risks.
+
 How to use
 ===========
 
